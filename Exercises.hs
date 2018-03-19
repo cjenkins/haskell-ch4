@@ -28,7 +28,7 @@ myId x = x
 f3 (a, b) = a
 
 --Types
---1 a
+--1 c
 --2 b
 --3 a
 --4 d
